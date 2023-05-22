@@ -1,7 +1,7 @@
 ## Related Work
 {:#litterature_review} 
 
-### Link Traversal Query Processing
+### Link Traversal Query Processing (LTQP)
 {:#litterature_review_LTQP} 
 
 LTQP is a technique that consists of [recursively looking up URLs from dereferenced URIs acquired by the query engine
